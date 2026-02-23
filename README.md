@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Venkatakrishna K and I'm a Azure Cloud & Devops Engineer , from India..</h2>
+<h2 align="left">Hi 👋! My name is Venkatakrishna K and I'm a  Cloud/Devops Secuirty Engineer , from India..</h2>
 
 ###
 
